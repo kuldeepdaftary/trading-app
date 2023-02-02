@@ -1,2 +1,3 @@
 # trading-app
-Simple FE Trading app build using React and Zustand. 
+
+Simple FE Trading app built using React and Zustand.
